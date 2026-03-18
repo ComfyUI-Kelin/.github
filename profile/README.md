@@ -25,6 +25,8 @@ custom nodes and workflow tools for ComfyUI.
   development or staged releases.
 - Public repositories are the best place to start if you want to explore the
   tools maintained here.
+- Internal category standard:
+  [CATEGORY_STANDARD.md](https://github.com/ComfyUI-Kelin/.github/blob/main/CATEGORY_STANDARD.md)
 
 ## Maintained By
 
